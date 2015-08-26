@@ -8,8 +8,7 @@
   border-radius: 5px;
   vertical-align: top;
   padding: 13px;
-  padding-left: 10px;
-  margin-right: 39px;
+  margin-left: -238px;
 
 }
 .card:hover {
@@ -35,14 +34,14 @@ h1 {
 }
 .triangle {
   display: inline-block;
-  margin-left: -9px;
+  margin-left: 68px;
   margin-top: 6px;
   position: absolute;
 }
 .triangle-2 {
-  margin-left: 268px;
+  display:inline-block;
+  margin-left: 306px;
   margin-top: 20px;
-  display: inline-block;
   position: absolute;
 }
 .material-icons {
@@ -50,12 +49,31 @@ h1 {
   background-color: #3B95CB;
   border-radius: 100%;
   padding: 3px;
-  float: left;
   border: 4px solid #7DC0EB;
+  margin-left: 200px;
+  float: left;
 }
-.container {
-  margin: auto 0;
-}
+
 p {
   text-align: left;
+}
+.whole-page {
+  margin-top: 22px;
+}
+.icon-line-2 {
+  margin-top:10px;
+}
+.vertical-line {
+  border-left: 7px #7DC0EB solid;
+  height: 186px;
+  position: absolute;
+  top: 60px;
+  left: 224px;
+}
+.vertical-line-2 {
+  border-left: 7px #7DC0EB solid;
+  height: 186px;
+  position: absolute;
+  top: 280px;
+  left: 224px;
 }
