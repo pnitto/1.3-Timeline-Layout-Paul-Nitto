@@ -34,13 +34,13 @@ h1 {
 }
 .triangle {
   display: inline-block;
-  margin-left: 68px;
-  margin-top: 6px;
+  margin-left: 6.6%;
+  margin-top: 14px;
   position: absolute;
 }
 .triangle-2 {
   display:inline-block;
-  margin-left: 306px;
+  margin-left: 23.2%;
   margin-top: 20px;
   position: absolute;
 }
@@ -65,9 +65,9 @@ p {
 }
 .vertical-line {
   border-left: 7px #7DC0EB solid;
-  height: 186px;
+  height: 189px;
   position: absolute;
-  top: 60px;
+  top: 59px;
   left: 224px;
 }
 .vertical-line-2 {
@@ -76,4 +76,37 @@ p {
   position: absolute;
   top: 280px;
   left: 224px;
+}
+.date {
+  position: absolute;
+  left: 10.5%;
+  top: 8px;
+  color: #CBD9E3;
+  font-family: arial;
+  font-size: 14px;
+}
+.time {
+  font-family: arial;
+  color: #7DC0EB;
+  position: absolute;
+  left: 6.7%;
+  top: -1%;
+  font-size: 40px;
+
+}
+.time-1 {
+  font-family: arial;
+  color: #7DC0EB;
+  font-size: 40px;
+  position: absolute;
+  left: 7%;
+  top: 59%;
+}
+.date-1 {
+  position: absolute;
+  left: 10.5%;
+  top: 237px;
+  color: #CBD9E3;
+  font-family: arial;
+  font-size: 14px;
 }
